@@ -184,12 +184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hackyoung/leno.git",
-                "reference": "b7ff7de162fc222fe6c8de42de6dfd495cc5f604"
+                "reference": "5a9cdb66425d2d0530eb4c874f5d52e7c8a34a0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hackyoung/leno/zipball/b7ff7de162fc222fe6c8de42de6dfd495cc5f604",
-                "reference": "b7ff7de162fc222fe6c8de42de6dfd495cc5f604",
+                "url": "https://api.github.com/repos/hackyoung/leno/zipball/5a9cdb66425d2d0530eb4c874f5d52e7c8a34a0d",
+                "reference": "5a9cdb66425d2d0530eb4c874f5d52e7c8a34a0d",
                 "shasum": ""
             },
             "require": {
@@ -212,7 +212,7 @@
                 "MIT"
             ],
             "description": "A simple clean framework",
-            "time": "2016-05-08 00:59:24"
+            "time": "2016-05-09 02:58:21"
         },
         {
             "name": "leno/view",
